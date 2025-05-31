@@ -1,0 +1,11 @@
+{
+    "dataset": "mnist",
+    "selector_latency": 0.1,
+    "description": "NUCLEO-H743ZI2",
+    "models": [
+        {"id": "S",  "training_accuracy": 96.84, "latency": 0.2},
+        {"id": "M",  "training_accuracy": 96.57, "latency": 0.4},
+        {"id": "L",  "training_accuracy": 99.03, "latency": 7.3},
+        {"id": "VL",  "training_accuracy": 99.28, "latency": 75.0}
+    ]
+}

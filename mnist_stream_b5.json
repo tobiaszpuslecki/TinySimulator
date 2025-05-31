@@ -1,0 +1,11 @@
+{
+    "dataset": "mnist",
+    "selector_latency": 0.2,
+    "description": "STM32F769I-DISCO",
+    "models": [
+        {"id": "S",  "training_accuracy": 96.84, "latency": 0.4},
+        {"id": "M",  "training_accuracy": 96.57, "latency": 0.8},
+        {"id": "L",  "training_accuracy": 99.03, "latency": 16.0},
+        {"id": "VL",  "training_accuracy": 99.28, "latency": 166.0}
+    ]
+}

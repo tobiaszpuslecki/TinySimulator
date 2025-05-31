@@ -1,0 +1,17 @@
+{
+    "dataset": "usps",
+    "selector_latency": 0.626,
+    "description": "CV_LR_C1",
+    "models": [
+        {"id": 0,  "training_accuracy": 94.08, "latency": 1.67},
+        {"id": 1,  "training_accuracy": 87.50, "latency": 0.16},
+        {"id": 2,  "training_accuracy": 91.07, "latency": 0.33}, 
+        {"id": 3,  "training_accuracy": 92.35, "latency": 0.50}, 
+        {"id": 4,  "training_accuracy": 92.91, "latency": 0.67}, 
+        {"id": 5,  "training_accuracy": 93.32, "latency": 0.83}, 
+        {"id": 6,  "training_accuracy": 93.61, "latency": 1.00},
+        {"id": 7,  "training_accuracy": 93.86, "latency": 1.17},
+        {"id": 8,  "training_accuracy": 93.99, "latency": 1.34},
+        {"id": 9,  "training_accuracy": 94.07, "latency": 1.50}
+    ]
+}

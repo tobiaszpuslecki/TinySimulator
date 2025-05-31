@@ -1,0 +1,17 @@
+{
+    "dataset": "mnist",
+    "selector_latency": 0.626,
+    "description": "CV_LR_C1",
+    "models": [
+        {"id": 0,  "training_accuracy": 91.71, "latency": 3.92},
+        {"id": 1,  "training_accuracy": 83.80, "latency": 0.39},
+        {"id": 2,  "training_accuracy": 88.47, "latency": 0.79},
+        {"id": 3,  "training_accuracy": 90.11, "latency": 1.18},
+        {"id": 4,  "training_accuracy": 90.93, "latency": 1.57}, 
+        {"id": 5,  "training_accuracy": 91.31, "latency": 1.96},
+        {"id": 6,  "training_accuracy": 91.52, "latency": 2.35},
+        {"id": 7,  "training_accuracy": 91.62, "latency": 2.75},
+        {"id": 8,  "training_accuracy": 91.70, "latency": 3.14},
+        {"id": 9,  "training_accuracy": 91.72, "latency": 3.53}
+    ]
+}

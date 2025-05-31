@@ -1,0 +1,6 @@
+{
+    "avg_infer_energy_cons": 10.7,
+    "_comment1": "in [mA]",
+    "avg_idle_energy_cons": 0.00118,
+    "_comment2": "STOP2 [mA], 5-7 us wakeup"
+}
