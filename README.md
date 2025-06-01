@@ -65,3 +65,15 @@ Succesfully utilized in:
    # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
    ```
+
+## Example usage
+
+   ```bash
+python simulator.py --use_tqdm 1 --dataset usps_tova --mode async --min_interval 3 --reference 1 --board NUCLEO-L476RG
+   ```
+
+## Run tests
+
+   ```bash
+   ./run_tests.sh
+   ```
