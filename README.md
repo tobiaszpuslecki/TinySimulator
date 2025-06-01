@@ -1,5 +1,4 @@
-# TinySimulator
-
+**TinySimulator**  
 *Optimizing TinyML: Balancing Energy Consumption and Inference Efficiency*  
 
 ---
@@ -14,6 +13,9 @@
 - **Repeatable, Customizable Environment**: Compare different selection strategies without needing to flash hardware; tune parameters such as battery capacity, current consumption, and buffer size to match a target device.
 
 This tool was introduced in “Optimizing TinyML: Looking for a Trade-off Between Energy Consumption and Efficiency” (Puslecki & Walkowiak), IEEE, 2025, in review.
+
+Succesfully utilized in:
+> T. Puślecki and K. Walkowiak, "A Novel One-Versus-All Approach for Multiclass Classification in TinyML Systems," in IEEE Embedded Systems Letters, vol. 17, no. 2, pp. 71-74, April 2025, doi: 10.1109/LES.2024.3482002.
 
 ---
 
